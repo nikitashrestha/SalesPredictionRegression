@@ -1,0 +1,12 @@
+@relation weather.numeric
+
+@attribute season {winter,summer,autumn,spring}
+@attribute Class numeric
+
+@data 
+5,95,spring,0
+6,90,autumn,0
+7,100,autumn,0
+8,80,summer,0
+
+

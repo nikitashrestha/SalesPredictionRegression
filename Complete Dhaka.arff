@@ -1,0 +1,45 @@
+@relation CompleteDhaka
+
+@attribute months NUMERIC
+@attribute sales NUMERIC
+@attribute class {popular,not popular}
+
+
+@data
+1,100,popular
+2,85,not popular
+3,105,popular
+4,75,not popular
+5,95,popular
+6,90,not popular
+7,100,popular
+8,80,not popular
+9,205,popular
+10,250,popular
+11,200,popular
+12,300,popular
+13,75,not popular
+14,90,not popular
+15,85,not popular
+16,95,popular
+17,70,not popular
+18,85,not popular
+19,82,not popular
+20,98,popular
+21,270,popular
+22,350,popular
+23,200,popular
+24,310,popular
+25,101,popular
+26,85,not popular
+27,92,not popular
+28,95,popular
+29,79,not popular
+30,82,not popular
+31,95,popular
+32,100,popular
+33,310,popular
+34,215,popular
+35,200,popular
+36,305,popular
+

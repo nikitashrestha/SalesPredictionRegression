@@ -1,0 +1,48 @@
+@relation weather.numeric
+
+
+@attribute months numeric 
+@attribute sales numeric
+@attribute season {winter,summer,autumn,spring}
+@attribute Class numeric
+
+@data 
+1,100,winter,1
+2,85,winter,0
+3,105,spring,1
+4,75,spring,0
+5,95,spring,1
+6,90,autumn,0
+7,100,autumn,1
+8,80,summer,0
+9,205,summer,1
+10,250,summer,1
+11,200,summer,1
+12,300,winter,1
+13,75,winter,0
+14,90,winter,0
+15,85,spring,0
+16,95,spring,0
+17,70,spring,0
+18,85,autumn,0
+19,82,autumn,0
+20,98,summer,0
+21,270,summer,1
+22,350,summer,1
+23,200,summer,1
+24,310,winter,1
+25,101,winter,1
+26,85,winter,0
+27,92,spring,0
+28,95,spring,0
+29,79,spring,0
+30,82,autumn,0
+31,95,autumn,0
+32,100,summer,0
+33,310,summer,1
+34,215,summer,1
+35,200,summer,1
+36,305,winter,1
+
+
+
